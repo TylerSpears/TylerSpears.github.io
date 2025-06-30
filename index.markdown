@@ -8,7 +8,7 @@ permalink: /
 ---
 
 # Welcome
-![Tyler at Shenandoah National Park](/assets/images/Tyler Shenandoah.JPG)
+![Tyler at Shenandoah National Park](/assets/images/Tyler Shenandoah 2.JPG)
 
 I am a current PhD candidate and researcher at the University of Virginia, researching how we can use machine learning to improve neuroimag‑
 ing and better understand the brain. My interdisciplinary research lies at the intersection of artificial intelligence, neuroscience, and biomedical
