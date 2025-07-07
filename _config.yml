@@ -26,9 +26,31 @@ url: "https://tylerspears.github.io/" # the base hostname & protocol for your si
 github_username:  TylerSpears
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/TylerSpears
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/tyler-ai-spears/
+
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Publications
+    link: ./publications.html
+  - name: Research
+    link: ./research.html
+  - name: Funding and Awards
+    link: ./funding_awards.html
+  - name: Teaching
+    link: ./teaching.html
+  - name: Skills
+    link: ./skills.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
